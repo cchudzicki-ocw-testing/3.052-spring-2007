@@ -16,4 +16,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: hw5_wsxm_chondrocyte.zip
 uid: 53222b54-218f-b5a8-4f6b-c324799613ae
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

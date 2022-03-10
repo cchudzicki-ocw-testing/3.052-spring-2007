@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: midtrm_revie.pdf
 uid: fa3587d7-3314-94f3-f63f-a85bf5b5301d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

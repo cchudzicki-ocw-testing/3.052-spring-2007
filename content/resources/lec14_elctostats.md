@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec14_elctostats.pdf
 uid: 23942ca2-2151-7129-99e0-d22a8e190f64
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

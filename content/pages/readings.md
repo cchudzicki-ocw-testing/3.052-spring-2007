@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: e6456c8b-3f6d-c6b1-82cd-f37e5b941d0c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page lists the assigned readings for each lecture session, plus the paper for the podcast associated with some sessions.

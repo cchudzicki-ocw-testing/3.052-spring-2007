@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: message_board.pdf
 uid: f084cb7c-13b8-2324-580b-dbde64d87160
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

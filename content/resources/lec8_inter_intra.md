@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec8_inter_intra.pdf
 uid: c97ed0f1-7b1f-ea6f-95f4-c419d7e9fd50
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

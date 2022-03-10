@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 922432df-afab-e294-318b-a73cbb705744
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 \*\* **Important**: In the following table, the WSxM ZIP files for homeworks 2 and 5 contain .txt files (hw2\_wsxm\_nanoparticle.txt and hw5\_wsxm\_chondrocyte.txt) that are for use with free [Nanotec WSxM software](https://www.ncbi.nlm.nih.gov/pubmed/17503926). This file format starts with an ASCII variable size header followed by the binary data of the image. You may open the file with an ASCII editor like Notepad and see the header of the file, but  **do not try to save the file from the ASCII editor because it will destroy the binary data!**
@@ -50,7 +54,7 @@ Homework 2 ({{% resource_link b2658385-7acd-623e-d362-e7648b476667 "PDF" %}})
 {{< tdopen >}}
 
 
-Data for problem 2 ([TXT](/courses/materials-science-and-engineering/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/assignments/hw2_q2_data.txt))
+Data for problem 2 ({{% resource_link 3a2897d7-7d0d-0e8b-cd93-9f3b090e71b2 "TXT" %}})
 
 \*\* WSxM image for problem 3 ({{% resource_link 4865ce0b-25fa-da8c-dace-1125aaf64e0d "ZIP" %}})
 

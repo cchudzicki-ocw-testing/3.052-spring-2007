@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lec7_suresh.mpg
 uid: 2c321723-5d9a-9024-cd9b-99677b4e76f8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

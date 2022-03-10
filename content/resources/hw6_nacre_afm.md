@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: hw6_nacre_afm.stp
 uid: 89d6a74c-ab98-0275-3b82-7b342e633fa6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

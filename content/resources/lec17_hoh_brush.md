@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lec17_hoh_brush.avi
 uid: 4e42e866-eb62-2399-4aeb-d19e1001b756
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

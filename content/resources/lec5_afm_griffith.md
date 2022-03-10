@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lec5_afm_griffith.exe
 uid: 662783b6-9bba-1207-e84a-9fb67f120268
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

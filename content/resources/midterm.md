@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: midterm.pdf
 uid: f8fc2cf5-6846-7d5a-e590-84e4f4464dc9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

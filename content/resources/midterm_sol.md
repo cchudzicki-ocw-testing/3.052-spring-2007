@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: midterm_sol.pdf
 uid: c95a0fbb-9026-7261-73b0-7844cafca828
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

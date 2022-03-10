@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec10_integrals.pdf
 uid: 66821b57-e323-d0d2-8cea-21104b3d5d38
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

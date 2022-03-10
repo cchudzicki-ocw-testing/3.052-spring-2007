@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: smplprblem.pdf
 uid: b1185392-a984-5e37-3206-4b1577cff5ae
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

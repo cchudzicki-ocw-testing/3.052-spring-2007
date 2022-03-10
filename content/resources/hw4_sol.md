@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw4_sol.pdf
 uid: 8c298c0f-35d9-3b77-0af6-44a0e863be76
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

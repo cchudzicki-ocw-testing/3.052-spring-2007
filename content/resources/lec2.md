@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec2.pdf
 uid: 13bf4344-5b02-2292-3489-ee0ef37f7aaf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

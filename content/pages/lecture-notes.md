@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 10a5bd3d-a11b-80ad-3d96-ad9fb4750e5b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents the lecture notes for each class session, plus supporting multimedia for some sessions.

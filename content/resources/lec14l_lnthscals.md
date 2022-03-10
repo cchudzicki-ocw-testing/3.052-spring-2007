@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec14l_lnthscals.pdf
 uid: 41b826e2-0a35-d48c-7824-95312b9d441e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

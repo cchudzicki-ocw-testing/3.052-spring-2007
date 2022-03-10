@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw3_sol.pdf
 uid: 919dccd1-3c37-2133-07b5-f910929b106d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

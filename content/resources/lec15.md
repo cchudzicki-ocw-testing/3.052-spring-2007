@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec15.pdf
 uid: a9252a7e-6741-bfe4-55ea-f55cee3323e6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

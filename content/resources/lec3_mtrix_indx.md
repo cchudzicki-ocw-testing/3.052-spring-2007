@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec3_mtrix_indx.pdf
 uid: 64109c03-b0a0-685b-12d0-587ee0aa3811
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

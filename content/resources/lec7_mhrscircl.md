@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec7_mhrscircl.pdf
 uid: 02147b08-36ed-d5d2-76fc-10d3915078a2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec21.pdf
 uid: b455247c-a7cf-932a-c560-2d46183a35e8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

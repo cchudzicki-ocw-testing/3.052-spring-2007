@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw5.pdf
 uid: 7f1f98ed-9864-7890-f923-4ee57d33dc6a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

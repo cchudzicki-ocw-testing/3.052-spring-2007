@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: hw1_q1_data.xls
 uid: 4f8a0f33-8bd2-a700-8e6a-0d5af527dbf1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

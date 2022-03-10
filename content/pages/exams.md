@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: 31f738a4-c74a-02ab-f600-670dd8954027
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Sample Problems from Prior Years ({{% resource_link b1185392-a984-5e37-3206-4b1577cff5ae "PDF" %}})

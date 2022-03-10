@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: hw5_wsxm.txt
 uid: 5a3590f0-a3d3-e676-76d9-5e49e496ce9a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

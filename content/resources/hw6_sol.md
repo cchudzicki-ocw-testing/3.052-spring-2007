@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw6_sol.pdf
 uid: 1c30b68f-1d78-506d-59f9-9fcc8bb7f76c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

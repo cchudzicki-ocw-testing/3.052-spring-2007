@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec16_cartilage.pdf
 uid: bfd58efd-d238-af85-cbc4-4e91b823f440
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: hw5_q3b.xls
 uid: 29a50f17-4f62-5c06-2980-c040f0e1ed4e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

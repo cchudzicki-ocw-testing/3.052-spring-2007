@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: hw4_q3d_seq.pdf
 uid: 6096cee6-1366-2124-43db-652e02cabf8d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

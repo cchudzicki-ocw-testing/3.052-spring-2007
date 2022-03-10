@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: hw2_q2_data.zip
 uid: abec1aa6-98b1-57e7-6976-7ee58066aafb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

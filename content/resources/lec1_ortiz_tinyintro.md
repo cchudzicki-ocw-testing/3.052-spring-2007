@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lec1_ortiz_tinyintro.mp3
 uid: 19857382-ad10-d455-1ca2-4493f5ed294d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

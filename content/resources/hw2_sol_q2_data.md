@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: hw2_sol_q2_data.xls
 uid: 1b0d0467-8a23-c356-69cb-3a3f0abc4cb5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

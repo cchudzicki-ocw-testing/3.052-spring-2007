@@ -16,4 +16,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: hw2_wsxm_nanoparticle.zip
 uid: 4865ce0b-25fa-da8c-dace-1125aaf64e0d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

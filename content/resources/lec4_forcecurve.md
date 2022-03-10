@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: lec4_forcecurve.mov
 uid: 2a10372b-c811-f818-4ccd-03db92d6a7c9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

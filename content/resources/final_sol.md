@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: final_sol.pdf
 uid: 58107285-656d-1d0f-8d94-12596f13ced0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
